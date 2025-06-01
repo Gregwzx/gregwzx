@@ -12,6 +12,7 @@
 ### 👨‍💻 Sobre mim
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**  
+📸 Fotógrafo automotivo nas horas vagas
 💡 Explorando o mundo da programação com foco em **projetos práticos**  
 🔥 Estudando **Java**, e com experiência em **Python, JS, HTML/CSS**  
 📍 Baseado no Brasil 🇧🇷
