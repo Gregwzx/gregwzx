@@ -1,6 +1,6 @@
 <!-- GIF do Gojo -->
 <p align="center">
-  <img src="https://br.pinterest.com/pin/1138636718274150742/" width="100%" />
+  <img src="https://i.pinimg.com/originals/a0/c9/7b/a0c97b801bb61c9c53825e1b80a02f60.gif" width="100%" />
 </p>
 
 <!-- Título com fonte parecida (Impact) -->
