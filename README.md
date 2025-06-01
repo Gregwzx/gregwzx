@@ -1,34 +1,49 @@
-<h1 align="center">Olá! Eu sou o Jailson 👋</h1>
-
+<!-- GIF do Gojo -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;Desenvolvedor+em+formação;Sempre+aprendendo+algo+novo!">
+  <img src="https://github.com/lopeswzx/lopeswzx/blob/main/gojo-banner.gif?raw=true" alt="Gojo Banner" width="100%" />
 </p>
+
+<!-- Título com fonte parecida (Impact) -->
+<h1 align="center" style="font-family:Impact, sans-serif; font-size: 36px;">Jailson Ferreira</h1>
+<h3 align="center" style="font-family:Impact, sans-serif;">Estudante de ADS & Desenvolvedor em Formação 💻</h3>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 🔥 Atualmente estudando **Java** e praticando com **projetos pessoais**
-- 🐍 Gosto de programar em **Python**, **JavaScript**, **HTML/CSS**
-- 💡 Apaixonado por tecnologia e inovação
-- 📫 Como me encontrar:
-  - 📸 Instagram: [@lopes_wzx](https://www.instagram.com/lopes_wzx/)
-  - 💼 LinkedIn: [Jailson Ferreira](https://www.linkedin.com/in/jailson-ferreira-104352348/)
+🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**  
+💡 Explorando o mundo da programação com foco em **projetos práticos**  
+🔥 Estudando **Java**, e com experiência em **Python, JS, HTML/CSS**  
+📍 Baseado no Brasil 🇧🇷
 
 ---
 
-### 🧰 Tecnologias que uso
+### 🌐 Onde me encontrar
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+<p align="center">
+  <a href="https://www.instagram.com/lopes_wzx/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jailson-ferreira-104352348/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 🛠️ Tecnologias que conheço
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lopeswzx&show_icons=true&theme=tokyonight" />
@@ -37,17 +52,10 @@
 
 ---
 
-### 🌍 Vamos nos conectar!
+### 💡 Dev Quote
 
-<p align="center">
-  <a href="https://www.instagram.com/lopes_wzx/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/jailson-ferreira-104352348/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-  </a>
-</p>
+> "O código limpo sempre parece que foi fácil de escrever." — *Robert C. Martin*
 
 ---
 
-⭐️ Se gostou dos meus projetos, me siga e deixe uma estrela!
+⭐️ Se curtiu, deixa uma estrela nos repositórios!
