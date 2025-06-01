@@ -1,6 +1,6 @@
 <!-- GIF do Gojo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lopeswzx/lopeswzx/main/gojo-banner.gif" alt="Gojo Banner" width="100%" />
+  <img src="file:///C:/Users/jails/Downloads/a0c97b801bb61c9c53825e1b80a02f60.gif" width="100%" />
 </p>
 
 <!-- Título com fonte parecida (Impact) -->
