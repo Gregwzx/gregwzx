@@ -3,19 +3,19 @@
   <img src="https://i.pinimg.com/originals/a0/c9/7b/a0c97b801bb61c9c53825e1b80a02f60.gif" width="100%" />
 </p>
 
-<!-- Título com fonte parecida (Impact) -->
-<h1 align="center" style="font-family:Impact, sans-serif; font-size: 36px;"> "Hello World" I am, Jailson Ferreira ✈ </h1>
-<h3 align="center" style="font-family:Impact, sans-serif;">Estudante de ADS & Desenvolvedor em Formação 💻</h3>
+<h1 align="center">"Hello World" I am, Jailson Ferreira ✈</h1>
+<h3 align="center">Estudante de ADS & Desenvolvedor em Formação 💻</h3>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**  
-📸 Fotógrafo automotivo nas horas vagas
+📸 **Fotógrafo automotivo nas horas vagas**  
+🎨 **Designer**  
 💡 Explorando o mundo da programação com foco em **projetos práticos**  
 🔥 Estudando **Java**, e com experiência em **Python, JS, HTML/CSS**  
-📍 Baseado no Brasil 🇧🇷
+📍 🇧🇷  
 
 ---
 
@@ -55,7 +55,7 @@
 
 ### 💡 Dev Quote
 
-> "O código limpo sempre parece que foi fácil de escrever." — *Robert C. Martin*
+> "O código limpo sempre parece que foi fácil de escrever." — *Robert C. Martin*  
 
 ---
 
