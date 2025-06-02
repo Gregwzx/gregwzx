@@ -1,0 +1,57 @@
+import webbrowser
+
+def abrir_site(url):
+    webbrowser.open(url)
+
+print("bem vindo ao sistema de atividades")
+input("Pressione Enter para continuar...")
+
+print("selecione uma atividade:")
+print("1 - Google")
+print("2 - Youtube")
+print("3 - Facebook")
+print("4 - Instagram")
+print("5 - Twitter")
+print("6 - LinkedIn")
+print("7 - GitHub")
+print("8 - Gmail")
+print("9 - Outlook")
+print("10 - Skype")
+print("11 - WhatsApp")
+print("12 - Telegram")
+print("13 - Discord")
+print("14 - Reddit")
+print("15 - Spotify")
+print("16 - Netflix")
+print("17 - Amazon")
+print("18 - Mercado Livre")
+
+opcao = input("Digite o numero da opcao desejada: ")
+
+sites = {
+    "1": "https://www.google.com",
+    "2": "https://www.youtube.com",
+    "3": "https://www.facebook.com",
+    "4": "https://www.instagram.com",
+    "5": "https://www.twitter.com",
+    "6": "https://www.linkedin.com",
+    "7": "https://www.github.com",
+    "8": "https://www.gmail.com",
+    "9": "https://www.outlook.com",
+    "10": "https://www.skype.com",
+    "11": "https://www.whatsapp.com",
+    "12": "https://www.telegram.org",
+    "13": "https://www.discord.com",
+    "14": "https://www.reddit.com",
+    "15": "https://www.spotify.com",
+    "16": "https://www.netflix.com",
+    "17": "https://www.amazon.com",
+    "18": "https://www.mercadolivre.com.br"
+}
+
+if opcao in sites:
+    abrir_site(sites[opcao])
+else:
+    print("Opcao invalida")
+
+input("Pressione Enter para sair...")
