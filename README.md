@@ -1,16 +1,9 @@
-<h1 align="center">"Hello World" Me chamo, Jailson Ferreira ✈</h1>
-<h3 align="center">Estudante de ADS & Desenvolvedor em Formação 💻</h3>
+# 👾 Jailson Ferreira
 
----
+**`Desenvolvedor FullStack`**
 
-### 👨‍💻 Sobre mim
+Me chamo Jailson Ferreira, Tenho 18 anos, estou cursando Análise e Desenvolvimento de Sistemas, e estou construindo minha base com foco em desenvolvimento, lógica de programação e projetos práticos. Tenho foco em desenvolvimento e estou em busca da minha primeira oportunidade na área de TI, onde possa aprender e contribuir. Atualmente estudando Python, java, HTML, CSS e lógica de programação. Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**  
-📸 **Fotógrafo automotivo nas horas vagas**  
-🎨 **Designer**  
-💡 Explorando o mundo da programação com foco em **projetos práticos**  
-🔥 Estudando **Java**, e com experiência em **Python, JS, HTML/CSS**  
-📍 🇧🇷  
 
 ---
 
@@ -27,31 +20,76 @@
 
 ---
 
-### 🛠️ Tecnologias que conheço
+### 🤖 Linguagens e Tecnologias
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Gregwzx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregwzx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lopeswzx&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lopeswzx&theme=tokyonight" />
-</p>
-
----
-
-### 💡 Dev Quote
-
-> "O código limpo sempre parece que foi fácil de escrever." — *Robert C. Martin*  
-
----
-
-⭐️ Se curtiu, deixa uma estrela nos repositórios!
