@@ -1,9 +1,9 @@
 <!-- GIF do Gojo -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a0/c9/7b/a0c97b801bb61c9c53825e1b80a02f60.gif" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd4ZmczejBtZ2VlMmtsYXk1a2NnNXhlNHFqZTIzdmRpY3c5NXhieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">"Hello World" I am, Jailson Ferreira ✈</h1>
+<h1 align="center">"Hello World" Me chamo, Jailson Ferreira ✈</h1>
 <h3 align="center">Estudante de ADS & Desenvolvedor em Formação 💻</h3>
 
 ---
