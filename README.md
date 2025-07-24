@@ -2,12 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jailson Ferreira, Tenho 18 anos, estou cursando Análise e Desenvolvimento de Sistemas, e estou construindo minha base com foco em desenvolvimento, lógica de programação e projetos práticos. Tenho foco em desenvolvimento e estou em busca da minha primeira oportunidade na área de TI, onde possa aprender e contribuir. Atualmente estudando Python, java, HTML, CSS e lógica de programação. Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.
+**Me chamo Jailson Ferreira, Tenho 18 anos, estou cursando Análise e Desenvolvimento de Sistemas, e estou construindo minha base com foco em desenvolvimento, lógica de programação e projetos práticos. Tenho foco em desenvolvimento e estou em busca da minha primeira oportunidade na área de TI, onde possa aprender e contribuir. Atualmente estudando Python, java, HTML, CSS e lógica de programação. Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.**
 
 
 ---
 
-### 🌐 Onde me encontrar
+### ♦️ Onde me encontrar
 
 <p align="center">
   <a href="https://www.instagram.com/lopes_wzx/" target="_blank">
@@ -20,13 +20,13 @@ Me chamo Jailson Ferreira, Tenho 18 anos, estou cursando Análise e Desenvolvime
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ♠️ Linguagens e Tecnologias
 
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -34,15 +34,15 @@ Me chamo Jailson Ferreira, Tenho 18 anos, estou cursando Análise e Desenvolvime
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
+    alt="Java" 
+    title="Java"
+    width="60px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 />
@@ -50,7 +50,7 @@ Me chamo Jailson Ferreira, Tenho 18 anos, estou cursando Análise e Desenvolvime
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -58,7 +58,7 @@ Me chamo Jailson Ferreira, Tenho 18 anos, estou cursando Análise e Desenvolvime
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -66,15 +66,17 @@ Me chamo Jailson Ferreira, Tenho 18 anos, estou cursando Análise e Desenvolvime
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
+
 <br/>
 <br/>
 
-### 📊 Estatísticas
+
+### 📈 Estatísticas
 
 <p>
   <img 
