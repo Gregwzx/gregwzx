@@ -2,8 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-**Me chamo Jailson Ferreira, Tenho 18 anos, estou cursando Análise e Desenvolvimento de Sistemas, e estou construindo minha base com foco em desenvolvimento, lógica de programação e projetos práticos. Tenho foco em desenvolvimento e estou em busca da minha primeira oportunidade na área de TI, onde possa aprender e contribuir. Atualmente estudando Python, java, HTML, CSS e lógica de programação. Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.**
-
+Me chamo Jailson Ferreira, tenho 18 anos, estou cursando Análise e Desenvolvimento de Sistemas e estou construindo minha base com foco em desenvolvimento, lógica de programação e projetos práticos.  
+Busco minha primeira oportunidade na área de TI, onde possa aprender e contribuir. Atualmente estudando **Python, Java, HTML, CSS e lógica de programação**.  
+Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.
 
 ---
 
@@ -22,76 +23,41 @@
 
 ### ♠️ Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="60px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" title="Git" />
+</div>
 
+---
 
-<br/>
-<br/>
+### 🏆 Trophies
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Gregwzx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### 📈 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gregwzx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Gregwzx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="180"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregwzx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregwzx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180"
   />
-
 </p>
+
+---
+
+### 🐍 Commit Snake (opcional)
+
+```md
+<!-- Ative o GitHub Actions para funcionar -->
+![Snake animation](https://github.com/Gregwzx/Gregwzx/blob/output/github-contribution-grid-snake.svg)
+
