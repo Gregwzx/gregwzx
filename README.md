@@ -34,12 +34,6 @@ Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.
 
 ---
 
-### 🏆 Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Gregwzx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📈 Estatísticas
 
 <p align="center">
@@ -52,12 +46,3 @@ Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.
     height="180"
   />
 </p>
-
----
-
-### 🐍 Commit Snake (opcional)
-
-```md
-<!-- Ative o GitHub Actions para funcionar -->
-![Snake animation](https://github.com/Gregwzx/Gregwzx/blob/output/github-contribution-grid-snake.svg)
-
