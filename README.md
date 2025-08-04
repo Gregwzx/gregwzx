@@ -43,11 +43,7 @@ Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Gregwzx&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&hide_title=true&locale=pt-br"
-    height="180"
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregwzx&theme=tokyonight&layout=compact&langs_count=8&hide_title=true" 
-    height="180"
+    width="600"
   />
 </p>
