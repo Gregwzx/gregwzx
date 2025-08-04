@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jailson Ferreira, tenho 18 anos, estou cursando Análise e Desenvolvimento de Sistemas e estou construindo minha base com foco em desenvolvimento, lógica de programação e projetos práticos.  
+Me chamo Jailson Ferreira, estou cursando Análise e Desenvolvimento de Sistemas e estou construindo minha base com foco em desenvolvimento, lógica de programação e projetos práticos.  
 Busco minha primeira oportunidade na área de TI, onde possa aprender e contribuir. Atualmente estudando **Python, Java, HTML, CSS e lógica de programação**.  
 Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.
 
