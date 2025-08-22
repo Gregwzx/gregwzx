@@ -1,14 +1,17 @@
-# 👾 Jailson Ferreira
+# 👾 Jailson Ferreira  
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`**  
 
-Me chamo Jailson Ferreira, estou cursando Análise e Desenvolvimento de Sistemas e estou construindo minha base com foco em desenvolvimento, lógica de programação e projetos práticos.  
-Busco minha primeira oportunidade na área de TI, onde possa aprender e contribuir. Atualmente estudando **Python, Java, HTML, CSS e JS**.  
-Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.
+Sou apaixonado por tecnologia e estou construindo minha base sólida em programação e desenvolvimento.  
+Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco em **Java, Projetos práticos** e evolução constante. 
+
+
 
 ---
 
-### ♦️ Onde me encontrar
+
+
+## ♦️ Onde me encontrar  
 
 <p align="center">
   <a href="https://www.instagram.com/lopes_wzx/" target="_blank">
@@ -21,29 +24,32 @@ Aberto a estágios, freelas ou qualquer chance de colocar a mão na massa.
 
 ---
 
-### ♠️ Linguagens e Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" title="HTML" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" title="CSS" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JavaScript" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" title="Git" />
-</p>
+### ♠️ Linguagens e Tecnologias 
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" title="HTML" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" title="CSS" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" title="Git" /> 
+</p> 
 
 ---
 
-### 📈 Estatísticas 
+## 📊 Estatísticas  
+ 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregwzx&theme=tokyonight&layout=compact&langs_count=10&hide_title=false" 
+    width="480"
+  />
+</p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregwzx&theme=tokyonight&layout=compact&langs_count=8&hide_title=true" 
-    width="600"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Gregwzx&theme=tokyonight&hide_border=false" 
+    width="480"
   />
 </p>
+
+---
