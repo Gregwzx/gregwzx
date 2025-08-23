@@ -4,13 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9b59b6&center=true&vCenter=true&width=500&lines=☄️+Dev+FullstacK+☄️" />
 </p>
 
-<br>
-<p>
-Sou apaixonado por tecnologia e estou construindo minha base sólida em programação e desenvolvimento.  
-Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco em **Java, Projetos práticos** e evolução constante.  
-</p>
 
-<br><br>
+
+
 
 ## ♦️ Onde me encontrar  
 
