@@ -34,13 +34,13 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com foco em **Ja
 ### ♠️ Linguagens e Tecnologias 
 <br><br>
 <p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" title="HTML" /> &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" title="CSS" /> &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" /> &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" title="Git" /> 
-</p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80" title="HTML" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80" title="CSS" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80" title="Java" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" title="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" title="Git" /> 
+</p>
 
 <br><br>
 
